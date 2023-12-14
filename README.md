@@ -5,7 +5,7 @@
 > 🌟 Passionné par le code, créateur de l'extraordinaire 🚀
 
 <!-- Badges Sociaux -->
-[![GitHub followers](<lien_badge_followers>)](https://github.com/<fraqui>?tab=followers) [![Twitter Follow]]([https://twitter.com/<ton_compte_twitter>](https://twitter.com/_Fraqui7))
+[![GitHub followers](<lien_badge_followers>)](https://github.com/<fraqui>?tab=followers) [![Twitter Follow]]([https://twitter.com/<ton_compte_twitter>(https://twitter.com/_Fraqui7)])
 
 <!-- À Propos de Moi -->
 ## À Propos de Moi
