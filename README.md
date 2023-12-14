@@ -1,6 +1,6 @@
 # Fraqui
 
-🌟 Passionné par le code, créateur de l'extraordinaire 🚀
+🌟 Passionné par le code🚀
 
 
 ## À Propos de Moi
