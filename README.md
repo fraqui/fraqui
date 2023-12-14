@@ -1,16 +1,15 @@
-### Hi there 👋
+# Bienvenue sur ma Page d'Accueil GitHub 👋
 
-<!--
-**fraqui/fraqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](url_de_l'image_de_l'en-tête)
 
-Here are some ideas to get you started:
+Je suis [Ton Nom](lien_vers_ton_profil), passionné(e) par [tes passions], et je crée des choses intéressantes ici.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧐 À Propos de Moi
+
+- 🌱 Actuellement en train d'apprendre [sujet d'apprentissage en cours]
+- 💼 Travaille en tant que [ton poste actuel]
+- 📚 Partage mes connaissances sur [ta plateforme de partage de connaissances]
+
+## 🔧 Technologies & Outils
+
+![
