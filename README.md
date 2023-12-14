@@ -2,30 +2,19 @@
 
 🌟 Passionné par le code, créateur de l'extraordinaire 🚀
 
-<!-- À Propos de Moi -->
+
 ## À Propos de Moi
-Salut ! 👋 Je suis <Ton Prénom>, un passionné de technologie et de programmation. Mon objectif est de créer des solutions innovantes pour rendre le monde meilleur.
+Salut ! 👋 Je suis Fraqui, un passionné de technologie et de programmation. 
 
-<!-- Compétences -->
+
 ## Compétences
-- 💻 Langages de programmation : Python, JavaScript, Java
-- 🌐 Développement Web : HTML, CSS, React
-- 📱 Développement Mobile : React Native
-- 🚀 Autres : Git, Docker, RESTful API
+- 💻 Langages de programmation : C, JavaScript, Lua
+- 🌐 Développement Web : HTML, CSS
+- 🚀 Autres : Git, Docker
 
-<!-- Projets Récents -->
-## Projets Récents
-- 🚗 [Projet Voiture Connectée](<lien_projet_voiture>)
-- 🌐 [Portfolio Personnel](<lien_portfolio>)
-
-<!-- Stats GitHub -->
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=<ton_nom_utilisateur>&show_icons=true&hide_border=true&count_private=true&theme=radical)
-
-<!-- Contact -->
 ## Contact
-- 📧 Email : <ton@email.com>
-- 💼 LinkedIn : [LinkedIn](<lien_profil_linkedin>)
-- 🌐 Site Web : [Mon Site](<lien_vers_ton_site_web>)
+- 💼 Discord : fraqui
+- 🌐 Site Web : [A venir](<lient_site>)
 
 <!-- Emoji Fun -->
 <p align="center">
