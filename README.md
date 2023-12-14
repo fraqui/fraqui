@@ -1,8 +1,6 @@
-<!-- Titre du Profil -->
-# <Ton Nom d'Utilisateur GitHub>
+### Fraqui
 
-<!-- Citation inspirante ou Slogan -->
->>> 🌟 Passionné par le code, créateur de l'extraordinaire 🚀
+🌟 Passionné par le code, créateur de l'extraordinaire 🚀
 
 <!-- À Propos de Moi -->
 ## À Propos de Moi
