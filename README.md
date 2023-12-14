@@ -1,4 +1,4 @@
-## Fraqui
+# Fraqui
 
 🌟 Passionné par le code, créateur de l'extraordinaire 🚀
 
