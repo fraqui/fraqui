@@ -14,4 +14,3 @@ Salut ! 👋 Je suis Fraqui, un passionné de technologie et de programmation.
 <p align="center">
   ✨ n'hésitez pas à me contacter ! ✨
 </p>
-![image](https://github.com/fraqui/fraqui/assets/120264066/bb29976f-a151-4add-a002-8db24160e750)
